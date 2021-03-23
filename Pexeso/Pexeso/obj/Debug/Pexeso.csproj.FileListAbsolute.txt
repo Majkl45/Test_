@@ -8,3 +8,13 @@ C:\Users\Michael Rohm\Desktop\Visual Studio Projects\Pexeso\Pexeso\obj\Debug\Pex
 C:\Users\Michael Rohm\Desktop\Visual Studio Projects\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.CoreCompileInputs.cache
 C:\Users\Michael Rohm\Desktop\Visual Studio Projects\Pexeso\Pexeso\obj\Debug\Pexeso.exe
 C:\Users\Michael Rohm\Desktop\Visual Studio Projects\Pexeso\Pexeso\obj\Debug\Pexeso.pdb
+E:\MyGitProjects\Pexeso\Pexeso\bin\Debug\Pexeso.exe.config
+E:\MyGitProjects\Pexeso\Pexeso\bin\Debug\Pexeso.exe
+E:\MyGitProjects\Pexeso\Pexeso\bin\Debug\Pexeso.pdb
+E:\MyGitProjects\Pexeso\Pexeso\obj\Debug\Pexeso.csprojAssemblyReference.cache
+E:\MyGitProjects\Pexeso\Pexeso\obj\Debug\Pexeso.Form1.resources
+E:\MyGitProjects\Pexeso\Pexeso\obj\Debug\Pexeso.Properties.Resources.resources
+E:\MyGitProjects\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.GenerateResource.cache
+E:\MyGitProjects\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.CoreCompileInputs.cache
+E:\MyGitProjects\Pexeso\Pexeso\obj\Debug\Pexeso.exe
+E:\MyGitProjects\Pexeso\Pexeso\obj\Debug\Pexeso.pdb

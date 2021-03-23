@@ -22,6 +22,7 @@ namespace Pexeso
         public Form1()
         {
             InitializeComponent();
+            this.BackgroundImage = Properties.Resources.img9;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -49,6 +50,7 @@ namespace Pexeso
                     Properties.Resources.img6,
                     Properties.Resources.img7,
                     Properties.Resources.img8,
+                    Properties.Resources.img9,
                 };
             }
         }
